@@ -5,7 +5,7 @@
 ## 1. AI 接口全面重构 — 从单一厂商到多厂商支持
 
 ---
-![Pasted image 20260608203333.png]
+![Pasted image 20260608203333.png](https://github.com/Fouxiuan/AIResume_optimization/blob/93d14f5f3b5165114b732831ab3727ba112d1327/public/Pasted%20image%2020260608203333.png)
   
 
 ## 2. 设置页面完全重写
@@ -54,7 +54,7 @@ Moonshot    → https://api.moonshot.cn/v1/chat/completions
 
 - 生成历史记录（最多 20 条），可查看/回填/删除
 
-![[![Pasted image 20260608203502.png](https://www.fouxian.cloud/AIResume%E9%A1%B9%E7%9B%AE%E4%BC%98%E5%8C%96/Pasted%20image%2020260608203502.png)]]  
+![Pasted image 20260608203502.png](https://github.com/Fouxiuan/AIResume_optimization/blob/93d14f5f3b5165114b732831ab3727ba112d1327/public/Pasted%20image%2020260608203502.png)
 
 
 ---
@@ -69,8 +69,8 @@ Moonshot    → https://api.moonshot.cn/v1/chat/completions
 
 - **按钮组响应式**：小屏时隐藏按钮文字，仅显示图标
 
-![[![Pasted image 20260608203536.png](https://www.fouxian.cloud/AIResume%E9%A1%B9%E7%9B%AE%E4%BC%98%E5%8C%96/Pasted%20image%2020260608203536.png)|257]]
-![[![Pasted image 20260608203548.png](https://www.fouxian.cloud/AIResume%E9%A1%B9%E7%9B%AE%E4%BC%98%E5%8C%96/Pasted%20image%2020260608203548.png)|257]]
+![Pasted image 20260608203536.png](https://github.com/Fouxiuan/AIResume_optimization/blob/93d14f5f3b5165114b732831ab3727ba112d1327/public/Pasted%20image%2020260608203536.png)
+![Pasted image 20260608203548.png](https://github.com/Fouxiuan/AIResume_optimization/blob/93d14f5f3b5165114b732831ab3727ba112d1327/public/Pasted%20image%2020260608203548.png)
   
 
 ---
@@ -85,10 +85,10 @@ Moonshot    → https://api.moonshot.cn/v1/chat/completions
 - 完整响应式适配（1024px / 768px / 480px 断点）
 
 - 阴影和圆角等视觉细节优化
-![[![Pasted image 20260608203636.png](https://www.fouxian.cloud/AIResume%E9%A1%B9%E7%9B%AE%E4%BC%98%E5%8C%96/Pasted%20image%2020260608203636.png)|697]]
-  
-![[![Pasted image 20260608204054.png](https://www.fouxian.cloud/AIResume%E9%A1%B9%E7%9B%AE%E4%BC%98%E5%8C%96/Pasted%20image%2020260608204054.png)|697]]
-![[![Pasted image 20260608204155.png](https://www.fouxian.cloud/AIResume%E9%A1%B9%E7%9B%AE%E4%BC%98%E5%8C%96/Pasted%20image%2020260608204155.png)]]
+![Pasted image 20260608203636.png](https://github.com/Fouxiuan/AIResume_optimization/blob/93d14f5f3b5165114b732831ab3727ba112d1327/public/Pasted%20image%2020260608203636.png)  
+![Pasted image 20260608204054.png](https://github.com/Fouxiuan/AIResume_optimization/blob/93d14f5f3b5165114b732831ab3727ba112d1327/public/Pasted%20image%2020260608204054.png)
+![Pasted image 20260608204155.png](https://github.com/Fouxiuan/AIResume_optimization/blob/93d14f5f3b5165114b732831ab3727ba112d1327/public/Pasted%20image%2020260608204155.png)
+
 ---
 
   
