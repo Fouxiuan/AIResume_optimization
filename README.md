@@ -1,4 +1,4 @@
-# AIResume 项目对比分析
+# AIResume 项目
 
 
 基于原项目 AIResume 优化，以下是优化很新增内容。
