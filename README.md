@@ -5,7 +5,7 @@
 ## 1. AI 接口全面重构 — 从单一厂商到多厂商支持
 
 ---
-![[![Pasted image 20260608203333.png](https://www.fouxian.cloud/AIResume%E9%A1%B9%E7%9B%AE%E4%BC%98%E5%8C%96/Pasted%20image%2020260608203333.png)]]
+[![Pasted image 20260608203333.png](https://www.fouxian.cloud/AIResume%E9%A1%B9%E7%9B%AE%E4%BC%98%E5%8C%96/Pasted%20image%2020260608203333.png)]]
   
 
 ## 2. 设置页面完全重写
